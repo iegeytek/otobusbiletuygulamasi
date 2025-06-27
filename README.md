@@ -16,9 +16,10 @@
 - C# (.NET)
 - Windows Forms (WinForms)
 - Visual Studio 2015+
+- Acces 2013+ (Database)
 
 
 ## 📸 Ekran Görüntüleri
 
-![Ana Ekran](C:\Users\EgeYiğit\Pictures\Screenshots\otobusuygulaması)
+![Ana Ekran](Screenshots/otobusuygulamasi.png)
 
