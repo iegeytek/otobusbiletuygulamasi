@@ -21,5 +21,5 @@
 
 ## 📸 Ekran Görüntüleri
 
-![Ana Ekran](Screenshots/otobusuygulamasi.png)
+![Ana Ekran](Screenshots/otobusuygulaması.png)
 
