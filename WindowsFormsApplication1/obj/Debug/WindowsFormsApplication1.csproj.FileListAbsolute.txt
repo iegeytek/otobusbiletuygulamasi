@@ -1,0 +1,27 @@
+E:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Usb Bellek\Vs-Projeler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\EgeYiğit\Documents\GitHub\otobusbiletuygulamasi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\EgeYiğit\Documents\GitHub\otobusbiletuygulamasi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\EgeYiğit\Documents\GitHub\otobusbiletuygulamasi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\EgeYiğit\Documents\GitHub\otobusbiletuygulamasi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\EgeYiğit\Documents\GitHub\otobusbiletuygulamasi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\EgeYiğit\Documents\GitHub\otobusbiletuygulamasi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\EgeYiğit\Documents\GitHub\otobusbiletuygulamasi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\EgeYiğit\Documents\GitHub\otobusbiletuygulamasi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\EgeYiğit\Documents\GitHub\otobusbiletuygulamasi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
